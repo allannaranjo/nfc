@@ -35,16 +35,20 @@ var app = {
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
 
-        nfc.addNdefListener(function(NFCEvent){
-            var tag = NFCEvent.tag;
-            var message = tag.ndefMessage;
-            alert(message);
+        nfc.addNdefListener(app.onNFC, app.onNFCReady, app.onNFCListenerError);
 
-        }, function(){
-            alert("NFC Ready!");
-        }, function(e){
-            alert(e)
-        })
+    },
+    onNFCReady: function(event){
+        alert("Ready to read NFC");
+    },
+    onNFCListenerError: function(error){
+        alert("Error while trying to addNdefListener: " + JSON.stringify(error));
+    },
+    onNFC: function(NFCEvent){
+        var tag = NFCEvent.tag;
+        var message = tag.ndefMessage;
+
+        alert(JSON.stringify(message));
 
     },
     // Update DOM on a Received Event
