@@ -1,0 +1,21 @@
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes.dex : \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$1.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$2.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$3.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$4.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$5.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$6.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$7.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$8.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$9.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/Util.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/BuildConfig.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/NFC.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/R$attr.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/R$drawable.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/R$string.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/R$xml.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/com/greencube/nfc/R.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
+/Users/allannaranjo/Sites/nfc/platforms/android/ant-build/dexedLibs/classes-dba18bc3067364d5c5ec6843e45d818b.jar \
